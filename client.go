@@ -1,4 +1,4 @@
-package bnrnßethttp
+package bnrnethttp
 
 import (
 	"crypto/tls"
