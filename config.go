@@ -1,4 +1,4 @@
-package klnethttp
+package bnrnethttp
 
 type Config struct {
 	EnableTLS        bool     `json:"enable_tls" mapstructure:"enable_tls"`

@@ -1,4 +1,4 @@
-package klnethttp
+package bnrnethttp
 
 import (
 	"reflect"
